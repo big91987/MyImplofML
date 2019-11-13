@@ -1,0 +1,6 @@
+__pycache__
+venv/
+backup/
+result/
+.idea/
+.DS_Store
